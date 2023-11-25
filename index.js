@@ -4,7 +4,7 @@ function helloWorld() {
 	div.innerText += '\n'
 	while (d >= 0) {
 		div.innerText += d + '\n'
-		d -= 7
+		d -= 45
 	}
 	return 0
 }
